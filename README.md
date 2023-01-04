@@ -1,0 +1,2 @@
+# calculoMediaDeProvas
+CálculoMediaDeProvas
